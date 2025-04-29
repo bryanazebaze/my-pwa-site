@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-pwa-site/static/css/main.f855e6bc.css",
-    "main.js": "/my-pwa-site/static/js/main.d22c6486.js",
-    "static/js/453.5333ad58.chunk.js": "/my-pwa-site/static/js/453.5333ad58.chunk.js",
-    "index.html": "/my-pwa-site/index.html",
-    "main.f855e6bc.css.map": "/my-pwa-site/static/css/main.f855e6bc.css.map",
-    "main.d22c6486.js.map": "/my-pwa-site/static/js/main.d22c6486.js.map",
-    "453.5333ad58.chunk.js.map": "/my-pwa-site/static/js/453.5333ad58.chunk.js.map"
+    "main.css": "/react-github-pages/static/css/main.f855e6bc.css",
+    "main.js": "/react-github-pages/static/js/main.5b940f33.js",
+    "static/js/453.5333ad58.chunk.js": "/react-github-pages/static/js/453.5333ad58.chunk.js",
+    "index.html": "/react-github-pages/index.html",
+    "main.f855e6bc.css.map": "/react-github-pages/static/css/main.f855e6bc.css.map",
+    "main.5b940f33.js.map": "/react-github-pages/static/js/main.5b940f33.js.map",
+    "453.5333ad58.chunk.js.map": "/react-github-pages/static/js/453.5333ad58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d22c6486.js"
+    "static/js/main.5b940f33.js"
   ]
 }
